@@ -33,7 +33,7 @@ for i in range(4):
     elif idade[i] >= 51 and idade[i] <= 70:
         pyautogui.moveTo(725,774, duration=0.25)
         pyautogui.click()
-    elif idade[i] >= 71 and idade[i] <= 1000:
+    elif idade[i] >= 71:
         pyautogui.moveTo(718,824, duration=0.25)
         pyautogui.click()
     
