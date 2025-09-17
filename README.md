@@ -40,6 +40,8 @@ PyAutoGUI
   3. Instale as dependências (se necessário)
 
     pip install -r requirements.txt
+    pip install pyAutoGui
+    pip install selenium
 
 
   4. Execute o script desejado
