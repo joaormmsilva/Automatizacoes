@@ -6,7 +6,7 @@ nota = [3,5,1,2]
 comentario = ['bom','top','ruim','medio']
 # pyautogui.scroll(-200)
 # pyautogui.mouseInfo()
-pyautogui.alert('Abra o fomulario')
+pyautogui.alert('Abra o fomulario\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSdtYvVlFzsJVyACmFrGU_8hJMiMnQu_44-bSE9ClY2wHbhKDQ/viewform')
 for i in range(4):
     print(idade[i])
     pyautogui.moveTo(677,430, duration=0.25)
