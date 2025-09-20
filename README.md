@@ -8,6 +8,7 @@ Este repositório reúne várias ideias de automatizações em Python desenvolvi
 |---------------------------|-----------|
 | **Preenchimento de formulario** | Sistema que preenche automaticamente o formulario(formulario especifico atualizar caso va usar). |
 | **Gerador de provas sobre estados**  |  Gera 30 arquivos de repostas e questoes embaralhadas para provas de geografia |
+| **Criador de email automatico**  |  Envia seus emails automaticamente basta colocar na planilha para quem direcionar o motivo e o email(verificar se é gmail ou hotmail) |
 
 ---
 
